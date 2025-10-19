@@ -1,0 +1,10 @@
+led_display.c:13:6:display_led_red_1	8	static
+led_display.c:17:6:display_led_yellow_1	8	static
+led_display.c:21:6:display_led_green_1	8	static
+led_display.c:25:6:display_led_red_2	8	static
+led_display.c:29:6:display_led_yellow_2	8	static
+led_display.c:33:6:display_led_green_2	8	static
+led_display.c:37:6:clear_all_leds	8	static
+led_display.c:48:6:display_7seg	24	static
+led_display.c:86:6:update_7seg_buffer	24	static
+led_display.c:102:6:clear_all_7seg	8	static
